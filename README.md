@@ -1,6 +1,11 @@
 # Hi, I'm 2-RaL 👋
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
@@ -8,7 +13,7 @@
 
 ## About Me
 
-I am learning Java programming and improving my software development skills through practical projects.
+I am learning Java programming and improving my software development and data analytics skills through practical projects.
 
 This GitHub profile is used to organize my learning process, track my progress, and document the projects I build step by step.
 
@@ -17,6 +22,8 @@ This GitHub profile is used to organize my learning process, track my progress, 
 - Java fundamentals
 - Console-based applications
 - Git and GitHub workflow
+- Data analytics fundamentals
+- Excel, SQL, Power BI, Python, and Tableau practice
 - Clean repository structure
 - Project documentation with README files
 
@@ -39,9 +46,10 @@ Advanced Java projects will focus on object-oriented programming, file handling,
 ## Tech Stack
 
 ```text
-Language: Java
-Tools: VS Code, IntelliJ IDEA, Git, GitHub
-Focus: Java practice, console applications, project structure
+Languages: Java, Python, SQL
+Data Tools: Excel, Power BI, Tableau
+Development Tools: VS Code, IntelliJ IDEA, Git, GitHub
+Focus: Java practice, data analytics, console applications, project structure
 ```
 
 ## Main Repository
@@ -54,7 +62,7 @@ JAVA-Portfolio
 
 ## Learning Goal
 
-My goal is to improve my programming skills step by step by building real projects, writing cleaner code, and managing everything properly with Git and GitHub.
+My goal is to improve my programming and data analytics skills step by step by building real projects, writing cleaner code, and managing everything properly with Git and GitHub.
 
 ---
 
