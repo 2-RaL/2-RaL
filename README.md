@@ -74,5 +74,5 @@ My goal is to improve my programming and data analytics skills step by step by b
 ---
 
 Thanks for visiting my profile! 😊
+![](https://raw.githubusercontent.com/s3bu7i/s3bu7i/output/github-contribution-grid-snake-dark.svg)
 
-https://raw.githubusercontent.com/s3bu7i/s3bu7i/output/github-contribution-grid-snake-dark.svg
