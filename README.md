@@ -6,6 +6,11 @@
 ![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
@@ -24,6 +29,7 @@ This GitHub profile is used to organize my learning process, track my progress, 
 - Git and GitHub workflow
 - Data analytics fundamentals
 - Excel, SQL, Power BI, Python, and Tableau practice
+- Web development fundamentals with HTML, CSS, PHP, Laravel, and Node.js
 - Clean repository structure
 - Project documentation with README files
 
@@ -46,10 +52,11 @@ Advanced Java projects will focus on object-oriented programming, file handling,
 ## Tech Stack
 
 ```text
-Languages: Java, Python, SQL
+Languages: Java, Python, SQL, PHP, HTML, CSS
+Frameworks & Runtime: Laravel, Node.js
 Data Tools: Excel, Power BI, Tableau
 Development Tools: VS Code, IntelliJ IDEA, Git, GitHub
-Focus: Java practice, data analytics, console applications, project structure
+Focus: Java practice, data analytics, web development, console applications, project structure
 ```
 
 ## Main Repository
